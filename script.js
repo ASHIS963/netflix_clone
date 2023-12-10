@@ -1,10 +1,10 @@
 // API key from TMDB
-const api = "api_key=1e55487b6d3e0c19ff797a2523bc0488";
+const api = "api_key=2677c4ffa96bb22f854ab036f3c9ba76";
 // Base URL of the site
 const base_url = "https://api.themoviedb.org/3";
 
 const banner_url = "https://image.tmdb.org/t/p/original";
-const image_url = "https://image.tmdb.org/t/p/w300";
+const image_url = "https://image.tmdb.org/t/p/w500";
 
 // Request object
 const requests = {
